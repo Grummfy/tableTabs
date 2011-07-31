@@ -4,7 +4,7 @@ script: tableTabs.js
 decription: tableTabs - based on nuTabs, add the hability to tabilize a table
 license: MIT-style license.
 authors:
- - Grummfy (http://grummfy.com)
+ - Grummfy (http://grummfy.com) - https://github.com/Grummfy/tableTabs
 requires:
   core:1.3.x-nocompat: TODO
   more:1.3.x-nocompat: TODO
